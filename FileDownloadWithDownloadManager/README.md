@@ -63,3 +63,8 @@ class MyWebViewClinet(private val context: Context): WebViewClient(), DownloadLi
     }
 }
 ```
+
+## 참고
+ 
+ * [https://stackoverflow.com/questions/33434532/android-webview-download-files-like-browsers-do](https://stackoverflow.com/questions/33434532/android-webview-download-files-like-browsers-do)
+ * [https://stackoverflow.com/questions/3926629/downloadlistener-not-working](https://stackoverflow.com/questions/3926629/downloadlistener-not-working)
